@@ -33,8 +33,9 @@ namespace BukleAkats
             foreach (int zenbakia in arrayZenbakiak)
             {
                 int karratua = zenbakia * zenbakia;
+                 Console.WriteLine($"Zenbakiaren karratua: {karratua}");
             }
-            Console.WriteLine($"Zenbakiaren karratua: {karratua}");
+            
 
 
             // 4.AKATSA
